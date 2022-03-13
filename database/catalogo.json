@@ -1,0 +1,20 @@
+[
+        {
+            "titulo": "Vingadores: Ultimato",
+            "codigo": 1365,
+            "duracao": 3.02,
+            "atores": ["Robert Downey Jr.", "Chris Evans", "Scarlett  Johansson", "Chris Hemsworth"],
+            "anoDeLancamento": 2019, 
+            "emCartaz": false
+        
+        },
+        {
+            "titulo": "Uncharted: Drake's Fortune",
+            "codigo": 1335,
+            "duracao": 1.56,
+            "atores": ["Tom Holland", "Mark Wahlberg", "Sophia Taylor Ali", "Tati Gabrielle"],
+            "anoDeLancamento": 2022,
+            "emCartaz": true
+        }
+    ]
+
